@@ -15,6 +15,8 @@
 
 Objetivo: definir las variables a utilizar, justificar selección, y detallar tipo, unidad, rango, periodicidad y agregaciones recomendadas.
 
+**Fuente de datos:** [Tasas de interés activas por tipo de crédito – Últimos dos meses](https://www.datos.gov.co/Econom-a-y-Finanzas/Tasas-de-inter-s-activas-por-tipo-de-cr-dito-ltimo/qzsc-9esp/about_data)
+
 **Selección**: Incluidas `Fecha_Corte`, `Nombre_Entidad`, `Producto_Credito`, `Tasa_Interes_Act`, `Montos_Desemb`, `Codigo_Mun`, `Sexo`. `Nombre_Tipo_Entidad`.
 
 | Variable | Descripción | Tipo | Unidad | Dominio / Rango | Periodicidad | Agregaciones | Justificación |
